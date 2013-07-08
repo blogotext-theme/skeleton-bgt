@@ -1,0 +1,27 @@
+﻿/* Changelog - Thème Skeleton par kris (http://www.xoofoo.org) */
+
+1.5	- Mise à jour de la police Fort Awesome à la version 3.2.1
+	- Mise à jour pour Blogotext 2.0.2.0
+
+1.4	- Mise à jour pour Blogotext 2.0.1.0
+	- Mise à jour de la police Fort Awesome à la version 3.2.0
+	- Mise à jour de html5-shiv à la version 3.6.2
+	- Mise à jour jQuery 2.0.2
+
+1.3	- Mise à jour de la police Fort Awesome à la version 3.0.2
+	- Mise à jour à jQuery 2.0
+
+1.2	- Ajout d'un menu "select" dans le header pour les petits écrans
+
+1.1	- Ajout du plugin jQuery TipTip pour la personnalisation des infos bulles sur les balises title
+
+1.0	- Travail initial basé sur le thème Basic 1.1
+
+
+/* Crédits */
+- Timo van Neerden (http://lehollandaisvolant.net/blogotext/fr/)
+- Skeleton team (www.getskeleton.com)
+- João Firmino (http://firmino.com.br/) - CssHorus
+- Hakim El Hattab (http://lab.hakim.se/fokus) pour le js permettant le focus sur le texte sélectionné
+- Font Awesome by Dave Gandy (http://fortawesome.github.com/Font-Awesome)
+- Drew Wilson (http://code.drewwilson.com/entry/tiptip-jquery-plugin)
