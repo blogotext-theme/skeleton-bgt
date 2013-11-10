@@ -1,4 +1,4 @@
-skeleton-bgt
+Skeleton-bgt
 ============
 
 This is a theme, based on Skeleton css framework, for Blogotext
@@ -26,7 +26,7 @@ This is a theme, based on Skeleton css framework, for Blogotext
 - Credits
   * Skeleton team (www.getskeleton.com)
   * João Firmino (http://csshor.us)
-  * Hakim El Hattab (http://lab.hakim.se/fokus) pour le js permettant le focus sur le texte sélectionné
+  * Hakim El Hattab (http://lab.hakim.se/fokus)
   * Font Awesome by Dave Gandy (http://fortawesome.github.com/Font-Awesome)
   * jQuery Team (http://jquery.com)
   * Drew Wilson (http://code.drewwilson.com/entry/tiptip-jquery-plugin)
